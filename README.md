@@ -10,4 +10,5 @@ https://cloud.google.com/vision/?utm_source=google&utm_medium=cpc&utm_campaign=2
 
 
 
-
+https://github.com/amcdnl/ng2-three-demo
+this is the component lib i’m building for it - https://github.com/amcdnl/ngx-webgl
